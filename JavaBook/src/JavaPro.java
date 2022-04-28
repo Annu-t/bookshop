@@ -322,11 +322,4 @@ public class JavaPro {
 		
 	}
 }
-//added jars.
-
-
-//errors
-//1.  Field 'id' doesn't have a default value answer- i forgot to add auto increment in db and then it worked.
-//2. header is not visible
-
 
